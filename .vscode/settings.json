@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stab.h": "c",
+        "stdio.h": "c",
+        "defs.h": "c",
+        "x86.h": "c",
+        "pmm.h": "c",
+        "default_pmm.h": "c",
+        "sync.h": "c"
+    }
+}
